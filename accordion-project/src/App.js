@@ -1,11 +1,11 @@
 import './App.css';
-import Accordian from './components/accordian';
+import Accordion from './components/accordion';
 
 function App() {
   return (
     <div className="App">
     { /* Add the Accordian component here */}
-      <Accordian />
+      <Accordion />
     </div>
   );
 }
