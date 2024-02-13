@@ -1,1 +1,1 @@
-## Components within a React App
+## Components for a React App
