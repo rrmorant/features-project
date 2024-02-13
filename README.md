@@ -1,1 +1,1 @@
-# accordion-react-project
+## Components for a React App
