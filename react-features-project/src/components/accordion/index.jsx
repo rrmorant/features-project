@@ -54,7 +54,6 @@ export default function Accordion() {
 								: selected === dataItem.id && (
 										<div className="content">{dataItem.answer}</div>
 								  )}
-							{/* Another wasy of doing this */}
 							{/* {selected === dataItem.id ||
 							multiple.indexOf(dataItem.id) !== -1 ? (
 								<div className="content">{dataItem.answer}</div>
